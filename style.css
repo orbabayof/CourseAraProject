@@ -1,45 +1,5 @@
 *{
-	box-sizing: border-box;
-}
-body{
-	background-color: #808080;
-	font-size: 20px;
-	font-family: monospace;
-}
-header{
-
-	text-align: center;
-	font-weight: bold;
-	margin: 2%
-
-}
-
-
-@media (min-width:992px ){
-
-section{
-	position: relative;
-	width: 33.3%;
-		border: solid black;
-
-
-}
-}
-section > div{
-
-	color: blue;
-	text-align: right;
-	border: solid black;
-
-
-}
-
-section{
-	background-color: grey;
-	float: left;
-	background-color: #5a5a5a; 
-	
-
+	background-color: blue;
 }
 
 
